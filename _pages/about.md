@@ -3,8 +3,6 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <a href="[https://www.montclair.edu/profilepages/view_profile.php?username=yej](https://www.montclair.edu/)">Montclair State University</a> |
-
 
 
 profile:
