@@ -10,8 +10,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>218 Central Avenue</p>
-    <p>Mon, NJ 07032</p>
+    <p>Center for Computing and Information Science</p>
+    <p>Montclair State University</p>
+    <p>Montclair, NJ 07043</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
