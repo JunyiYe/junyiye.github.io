@@ -12,8 +12,11 @@ author_profile: true
   {% if post.term != written_term %}
     <h2>{{ post.term }}</h2><hr />
     {% assign written_term = post.term %}
+    {% assign term_courses = site.teaching | where: "term", post.term | sort: "course_number" %}
+    {% for course in term_courses %}
+      <p style="font-size: 0.9em; margin-bottom: 0.4em;">
+        {{ course.type }} &mdash; {{ course.title }}{% if course.sections %} ({{ course.sections }} sections){% endif %}
+      </p>
+    {% endfor %}
   {% endif %}
-  <p style="font-size: 0.9em; margin-bottom: 0.4em;">
-    {{ post.type }} &mdash; {{ post.title }}{% if post.sections %} ({{ post.sections }} sections){% endif %}
-  </p>
 {% endfor %}

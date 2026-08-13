@@ -1,6 +1,7 @@
 ---
 title: "Data Structures and Algorithms"
 collection: teaching
+course_number: 212
 type: "CSIT 212"
 permalink: /teaching/2026-fall-csit212
 venue: "Montclair State University"

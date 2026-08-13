@@ -1,6 +1,7 @@
 ---
 title: "Advanced Techniques in Data Science"
 collection: teaching
+course_number: 557
 type: "CSIT 557"
 permalink: /teaching/2026-spring-csit557
 venue: "Montclair State University"
