@@ -28,8 +28,8 @@ author:
   pronouns         : # example: "she/her"
   bio              : "Assistant Professor at Montclair State University. Research: LLMs, graph neural networks, time series, computer vision."
   location         : "Montclair, NJ"
-  employer         : "Montclair State University"
-  uri              : # URL
+  employer         : "School of Computing, Montclair State University"
+  uri              : "https://www.montclair.edu/faculty-staff/junyi-ye"
   email            : "yej@montclair.edu"
 
   # Academic websites
