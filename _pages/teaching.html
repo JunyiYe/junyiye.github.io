@@ -13,5 +13,7 @@ author_profile: true
     <h2>{{ post.term }}</h2><hr />
     {% assign written_term = post.term %}
   {% endif %}
-  {% include archive-single.html %}
+  <p style="font-size: 0.9em; margin-bottom: 0.4em;">
+    {{ post.type }} &mdash; {{ post.title }}{% if post.sections %} ({{ post.sections }} sections){% endif %}
+  </p>
 {% endfor %}

@@ -6,5 +6,6 @@ permalink: /teaching/2026-spring-csit555
 venue: "Montclair State University"
 date: 2026-01-01
 term: "Spring 2026"
+sections: 2
 location: "Montclair, NJ"
 ---
