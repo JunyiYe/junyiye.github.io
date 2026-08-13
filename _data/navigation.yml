@@ -17,6 +17,9 @@ main:
   - title: "Teaching"
     url: /teaching/
 
+  - title: "Students"
+    url: /students/
+
   - title: "News"
     url: /year-archive/
 
