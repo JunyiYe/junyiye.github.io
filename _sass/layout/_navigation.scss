@@ -189,6 +189,11 @@
     }
   }
 
+  .masthead__menu-item.selected a {
+    color: var(--global-link-color);
+    font-weight: bold;
+  }
+
   button {
     position: absolute;
     height: 2.5rem;
