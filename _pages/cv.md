@@ -1,11 +1,24 @@
 ---
-layout: cv
+layout: archive
+title: "CV"
 permalink: /cv/
-title: cv
-nav: true
-nav_order: 5
-cv_pdf: example_pdf.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
+author_profile: true
 ---
+
+{% include base_path %}
+
+Education
+======
+* M.S. in Computer Science, New Jersey Institute of Technology (NJIT)
+* M.S. in Optics, Shanghai University (advisor: Prof. [Ye Dai](https://physics.shu.edu.cn/info/1082/1337.htm))
+
+Employment
+======
+* Assistant Professor, [Montclair State University](https://www.montclair.edu/profilepages/view_profile.php?username=yej)
+* Researcher, New Jersey Institute of Technology — NJIT Fintech Lab and Center for AI Research (advisor: Distinguished Professor [Guiling (Grace) Wang](https://web.njit.edu/~gwang/))
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
