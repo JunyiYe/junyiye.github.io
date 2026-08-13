@@ -7,6 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
+{% assign written_term = "" %}
 {% for post in site.teaching reversed %}
+  {% if post.term != written_term %}
+    <h2>{{ post.term }}</h2><hr />
+    {% assign written_term = post.term %}
+  {% endif %}
   {% include archive-single.html %}
 {% endfor %}
