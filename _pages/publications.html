@@ -11,6 +11,15 @@ author_profile: true
 
 {% include base_path %}
 
+<style>
+  .pub-entry a { color: #0ea5e9; text-decoration: none; }
+  .pub-entry a:hover { text-decoration: underline; }
+  .pub-entry .pub-authors { margin: 0.1em 0; }
+  .pub-entry .pub-venue { margin: 0.1em 0 0; color: var(--text-color, inherit); opacity: 0.85; }
+</style>
+
+<p><em>* denotes equal contributions.</em></p>
+
 {% for category in site.publication_category %}
   {% assign title_shown = false %}
   {% for post in site.publications reversed %}
@@ -21,10 +30,11 @@ author_profile: true
       <h2>{{ category[1].title }}</h2><hr />
       {% assign title_shown = true %}
     {% endunless %}
-    <p style="margin-bottom: 0.6em;">
-      <a href="{{ base_path }}{{ post.url }}"><strong>{{ post.title }}</strong></a>.
-      <em>{{ post.venue }}</em>{% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}.
-      {% if post.paperurl %}[<a href="{{ post.paperurl }}">Link</a>]{% endif %}
+    <p class="pub-entry" style="margin-bottom: 1.1em;">
+      <a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a><br/>
+      <span class="pub-authors">{{ post.authors }}</span><br/>
+      <span class="pub-venue"><em>{{ post.venue }}</em>{% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}</span>
+      {% if post.paperurl %} &middot; <a href="{{ post.paperurl }}">Link</a>{% endif %}
     </p>
   {% endfor %}
 {% endfor %}

@@ -5,6 +5,7 @@ category: preprints
 permalink: /publication/2024-03-01-factor-models-survey
 excerpt: 'A survey of machine learning applications in asset pricing, from traditional factor models to deep learning.'
 date: 2024-03-01
+authors: "Junyi Ye*, Bhaskar Goswami*, Jingyi Gu*, Ajim Uddin, Guiling Wang"
 venue: 'arXiv preprint arXiv:2403.06779'
 paperurl: 'https://arxiv.org/abs/2403.06779'
 citation: 'Ye*, J., Goswami*, B., Gu*, J., Uddin, A., &amp; Wang, G. (2024). &quot;From Factor Models to Deep Learning: Machine Learning in Reshaping Empirical Asset Pricing.&quot; <i>arXiv preprint arXiv:2403.06779</i>.'

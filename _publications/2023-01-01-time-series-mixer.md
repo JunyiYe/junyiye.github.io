@@ -5,6 +5,7 @@ category: conferences
 permalink: /publication/2023-01-01-time-series-mixer
 excerpt: 'A Time-Series Mixer (TS-Mixer) architecture, based on MLP-Mixer, for multivariate time series forecasting applied to S&P500 Index prediction.'
 date: 2023-01-01
+authors: "Junyi Ye, Jingyi Gu, Ankan Dash, Fadi P. Deek, Guiling Grace Wang"
 venue: '2023 IEEE 39th International Conference on Data Engineering Workshops (ICDEW), 20–27'
 citation: 'Ye, J., Gu, J., Dash, A., Deek, F. P., &amp; Wang, G. (2023). &quot;Prediction with Time-Series Mixer for the S&amp;P500 Index.&quot; <i>2023 IEEE 39th International Conference on Data Engineering Workshops (ICDEW)</i>, 20&ndash;27.'
 ---

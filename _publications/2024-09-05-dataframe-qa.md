@@ -5,6 +5,7 @@ category: conferences
 permalink: /publication/2024-09-05-dataframe-qa
 excerpt: 'A universal LLM framework for DataFrame question answering that relies only on column names, preserving data privacy.'
 date: 2024-09-05
+authors: "Junyi Ye, Mengnan Du, Guiling Wang"
 venue: 'ACML 2024 (Conference Track)'
 paperurl: 'https://openreview.net/forum?id=rDNj0enuhc'
 citation: 'Ye, J., Du, M., &amp; Wang, G. (2024). &quot;DataFrame QA: A Universal LLM Framework on DataFrame Question Answering Without Data Exposure.&quot; <i>The 16th Asian Conference on Machine Learning</i>.'

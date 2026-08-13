@@ -5,6 +5,7 @@ category: preprints
 permalink: /publication/2026-08-12-regime-gated-residual-moe
 excerpt: 'RG-ResMoE routes regime information through expert gating rather than direct forecasting, improving cross-sectional volatility forecasting accuracy and training stability.'
 date: 2026-08-12
+authors: "Junyi Ye, Gargi Vijay Borde"
 venue: 'arXiv preprint arXiv:2608.12251'
 paperurl: 'http://arxiv.org/abs/2608.12251'
 citation: 'Ye, J., &amp; Borde, G. V. (2026). &quot;Regime-Gated Residual Mixture-of-Experts for Cross-Sectional Volatility Forecasting.&quot; <i>arXiv preprint arXiv:2608.12251</i>.'

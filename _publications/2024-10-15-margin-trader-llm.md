@@ -5,6 +5,7 @@ category: conferences
 permalink: /publication/2024-10-15-margin-trader-llm
 excerpt: 'An adaptive, explainable framework combining LLMs and reinforcement learning for dynamic long-short position adjustment.'
 date: 2024-10-15
+authors: "Jingyi Gu*, Junyi Ye*, Guiling Wang, Wenpeng Yin"
 venue: 'ICAIF 2024'
 paperurl: 'https://doi.org/10.1145/3677052.3698681'
 citation: 'Gu*, J., Ye*, J., Wang, G., &amp; Yin, W. (2024). &quot;Adaptive and Explainable Margin Trading via Large Language Models on Portfolio Management.&quot; <i>Proceedings of the 5th ACM International Conference on AI in Finance (ICAIF &#39;24)</i>, 248&ndash;256.'

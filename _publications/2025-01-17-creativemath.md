@@ -5,6 +5,7 @@ category: conferences
 permalink: /publication/2025-01-17-creativemath
 excerpt: 'CreativeMath is a benchmark for assessing whether LLMs can propose novel solutions to math problems after being shown known solutions.'
 date: 2025-01-17
+authors: "Junyi Ye, Jingyi Gu, Xinyun Zhao, Wenpeng Yin, Guiling Wang"
 venue: 'AAAI 2025'
 paperurl: 'https://arxiv.org/abs/2410.18336'
 citation: 'Ye, J., Gu, J., Zhao, X., Yin, W., &amp; Wang, G. (2025). &quot;Assessing the Creativity of LLMs in Proposing Novel Solutions to Mathematical Problems.&quot; <i>Proceedings of the AAAI Conference on Artificial Intelligence</i>.'

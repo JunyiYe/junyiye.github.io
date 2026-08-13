@@ -5,6 +5,7 @@ category: conferences
 permalink: /publication/2023-06-01-safelight
 excerpt: 'A safety-enhanced residual reinforcement learning method for traffic signal control that reduces collisions while increasing mobility.'
 date: 2023-06-01
+authors: "Wenlu Du, Junyi Ye, Jingyi Gu, Jing Li, Hua Wei, Guiling Wang"
 venue: 'Proceedings of the AAAI Conference on Artificial Intelligence, 37(12), 14801–14810'
 paperurl: 'https://ojs.aaai.org/index.php/AAAI/article/view/26729'
 citation: 'Du, W., Ye, J., Gu, J., Li, J., Wei, H., &amp; Wang, G. (2023). &quot;SafeLight: A Reinforcement Learning Method toward Collision-Free Traffic Signal Control.&quot; <i>Proceedings of the AAAI Conference on Artificial Intelligence</i>, 37(12), 14801&ndash;14810.'

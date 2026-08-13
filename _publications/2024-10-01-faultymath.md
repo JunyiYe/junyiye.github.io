@@ -5,6 +5,7 @@ category: preprints
 permalink: /publication/2024-10-01-faultymath
 excerpt: 'FaultyMath is a benchmark of logically flawed math problems used to test whether LLMs merely calculate or actually reason about problem validity.'
 date: 2024-10-01
+authors: "Muntasir Rahman*, Junyi Ye*, Wei Yao, Wenpeng Yin, Guiling Wang"
 venue: 'arXiv preprint arXiv:2410.18921'
 paperurl: 'https://arxiv.org/abs/2410.18921'
 citation: 'Rahman*, M., Ye*, J., Yao, W., Yin, W., &amp; Wang, G. (2024). &quot;From Blind Solvers to Logical Thinkers: Benchmarking LLMs&#39; Logical Integrity on Faulty Mathematical Problems.&quot; <i>arXiv preprint arXiv:2410.18921</i>.'

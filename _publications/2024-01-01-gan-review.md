@@ -5,6 +5,7 @@ category: manuscripts
 permalink: /publication/2024-01-01-gan-review
 excerpt: 'A comprehensive survey of GAN theory, variants, evaluation metrics, and applications across twelve domains.'
 date: 2024-01-01
+authors: "Ankan Dash, Junyi Ye, Guiling Wang"
 venue: 'IEEE Access, 12, 18330–18357'
 citation: 'Dash, A., Ye, J., &amp; Wang, G. (2024). &quot;A Review of Generative Adversarial Networks (GANs) and Its Applications in a Wide Variety of Disciplines: From Medical to Remote Sensing.&quot; <i>IEEE Access</i>, 12, 18330&ndash;18357.'
 ---

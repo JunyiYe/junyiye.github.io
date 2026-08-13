@@ -5,6 +5,7 @@ category: conferences
 permalink: /publication/2024-01-01-blockchain-ssi
 excerpt: 'A systematic approach and baseline for evaluating capability, compatibility, and interoperability of blockchain-based self-sovereign identity (SSI) systems.'
 date: 2024-01-01
+authors: "Wei Yao, Wenlu Du, Jingyi Gu, Junyi Ye, Fadi P. Deek, Guiling Wang"
 venue: 'Proceedings of the 2024 6th Blockchain and Internet of Things Conference (BIOTC), 108–119'
 citation: 'Yao, W., Du, W., Gu, J., Ye, J., Deek, F. P., &amp; Wang, G. (2024). &quot;Establishing a Baseline for Evaluating Blockchain-Based Self-Sovereign Identity Systems.&quot; <i>Proceedings of the 2024 6th Blockchain and Internet of Things Conference</i>, 108&ndash;119.'
 ---
