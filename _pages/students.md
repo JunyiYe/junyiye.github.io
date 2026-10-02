@@ -9,6 +9,7 @@ Master's Students
 ======
 * Ivy Gateri Wanjiku
 * Gargi Vijay Borde
+* Erick Sanchez Suasnabar
 
 Undergraduate Students
 ======
