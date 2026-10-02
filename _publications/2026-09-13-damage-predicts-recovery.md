@@ -6,7 +6,7 @@ permalink: /publication/2026-09-13-damage-predicts-recovery
 excerpt: 'A study across two model families and ten financial tasks showing that calibration-corpus choice for compressing LLMs only matters when compression causes large task-specific damage.'
 date: 2026-10-02
 authors: "Junyi Ye, Mengjia Yu, Debapriya Hazra, Guiling Wang"
-venue: 'ICAIF 2026'
+venue: '7th ACM International Conference on AI in Finance (ICAIF 2026)'
 paperurl: 'https://arxiv.org/abs/2609.26241'
 citation: 'Ye, J., Yu, M., Hazra, D., &amp; Wang, G. (2026). &quot;Damage Predicts Recovery: When Calibration Data Matters in Compressing Financial LLMs.&quot; <i>Proceedings of the 7th ACM International Conference on AI in Finance (ICAIF &#39;26)</i>.'
 ---

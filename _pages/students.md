@@ -7,9 +7,9 @@ author_profile: true
 
 Master's Students
 ======
+* Erick Sanchez Suasnabar
 * Ivy Gateri Wanjiku
 * Gargi Vijay Borde
-* Erick Sanchez Suasnabar
 
 Undergraduate Students
 ======

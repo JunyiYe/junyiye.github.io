@@ -6,7 +6,7 @@ permalink: /publication/2026-09-13-market-data-unlearning
 excerpt: 'A 3,200-model benchmark of temporal machine unlearning in financial forecasting against exact retraining oracles, showing when approximate deletion methods can close the reference-to-oracle gap.'
 date: 2026-10-02
 authors: "Junyi Ye"
-venue: 'ICAIF 2026'
+venue: '7th ACM International Conference on AI in Finance (ICAIF 2026)'
 paperurl: 'https://arxiv.org/abs/2609.26242'
 citation: 'Ye, J. (2026). &quot;Can You Delete a Year of Market Data? Machine Unlearning Against Exact Retraining Oracles.&quot; <i>Proceedings of the 7th ACM International Conference on AI in Finance (ICAIF &#39;26)</i>.'
 ---

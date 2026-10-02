@@ -6,7 +6,7 @@ permalink: /publication/2026-08-12-calibration-bets-on-the-past
 excerpt: 'A systematic study showing that activation calibration is the primary determinant of predictive performance for 4-bit post-training quantization in financial forecasting.'
 date: 2026-10-02
 authors: "Junyi Ye, Ivy Gateri Wanjiku"
-venue: 'ICAIF 2026'
+venue: '7th ACM International Conference on AI in Finance (ICAIF 2026)'
 paperurl: 'https://arxiv.org/abs/2608.12259'
 citation: 'Ye, J., &amp; Wanjiku, I. G. (2026). &quot;Calibration Bets on the Past: Post-Training Quantization for Financial Time-Series Forecasting.&quot; <i>Proceedings of the 7th ACM International Conference on AI in Finance (ICAIF &#39;26)</i>.'
 ---
