@@ -8,7 +8,6 @@ date: 2026-10-02
 authors: "Junyi Ye, Mengjia Yu, Debapriya Hazra, Guiling Wang"
 venue: '7th ACM International Conference on AI in Finance (ICAIF 2026)'
 paperurl: 'https://doi.org/10.1145/3858063.3858724'
-preprinturl: 'https://arxiv.org/abs/2609.26241'
 citation: 'Ye, J., Yu, M., Hazra, D., &amp; Wang, G. (2026). &quot;Damage Predicts Recovery: When Calibration Data Matters in Compressing Financial LLMs.&quot; <i>Proceedings of the 7th ACM International Conference on AI in Finance (ICAIF &#39;26)</i>.'
 ---
 

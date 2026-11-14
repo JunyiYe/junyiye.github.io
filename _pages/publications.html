@@ -38,7 +38,6 @@ author_profile: true
       {% endif %}
       <span class="pub-authors">{{ post.authors | replace: "Junyi Ye", "<strong>Junyi Ye</strong>" }}</span><br/>
       <span class="pub-venue"><em>{{ post.venue }}</em>{% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}</span>
-      {% if post.preprinturl %}<br/><span class="pub-links"><a href="{{ post.preprinturl }}">Preprint</a></span>{% endif %}
     </p>
   {% endfor %}
 {% endfor %}

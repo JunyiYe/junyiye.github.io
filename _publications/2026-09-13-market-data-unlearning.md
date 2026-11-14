@@ -8,7 +8,6 @@ date: 2026-10-02
 authors: "Junyi Ye"
 venue: '7th ACM International Conference on AI in Finance (ICAIF 2026)'
 paperurl: 'https://doi.org/10.1145/3858063.3858875'
-preprinturl: 'https://arxiv.org/abs/2609.26242'
 citation: 'Ye, J. (2026). &quot;Can You Delete a Year of Market Data? Machine Unlearning Against Exact Retraining Oracles.&quot; <i>Proceedings of the 7th ACM International Conference on AI in Finance (ICAIF &#39;26)</i>.'
 ---
 
