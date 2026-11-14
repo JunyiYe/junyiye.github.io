@@ -8,6 +8,7 @@ date: 2026-10-02
 authors: "Junyi Ye, Gargi Vijay Borde"
 venue: '7th ACM International Conference on AI in Finance (ICAIF 2026)'
 paperurl: 'https://doi.org/10.1145/3858063.3858798'
+preprinturl: 'https://arxiv.org/abs/2608.12251'
 citation: 'Ye, J., &amp; Borde, G. V. (2026). &quot;Regime-Gated Residual Mixture-of-Experts for Cross-Sectional Volatility Forecasting.&quot; <i>Proceedings of the 7th ACM International Conference on AI in Finance (ICAIF &#39;26)</i>.'
 ---
 
