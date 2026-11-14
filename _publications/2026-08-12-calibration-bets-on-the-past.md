@@ -7,7 +7,7 @@ excerpt: 'A systematic study showing that activation calibration is the primary 
 date: 2026-10-02
 authors: "Junyi Ye, Ivy Gateri Wanjiku"
 venue: '7th ACM International Conference on AI in Finance (ICAIF 2026)'
-paperurl: 'https://arxiv.org/abs/2608.12259'
+paperurl: 'https://doi.org/10.1145/3858063.3858796'
 citation: 'Ye, J., &amp; Wanjiku, I. G. (2026). &quot;Calibration Bets on the Past: Post-Training Quantization for Financial Time-Series Forecasting.&quot; <i>Proceedings of the 7th ACM International Conference on AI in Finance (ICAIF &#39;26)</i>.'
 ---
 
